@@ -1,0 +1,201 @@
+customer_id,region,plan,contract_months,monthly_bill,data_gb_month,dropped_calls_month,churned
+100001,Coimbra,Family,1,68.47,13.5,4,No
+100002,Braga,Prepaid,78,11.27,2.3,10,No
+100003,Faro,Prepaid,4,12.24,6.2,12,No
+100004,Faro,Family,4,51.26,96.6,4,Yes
+100005,Setubal,Family,58,45.04,54.8,6,No
+100006,Faro,Postpaid Plus,10,40.57,51.4,3,No
+100007,Coimbra,Prepaid,94,12.88,2.6,1,No
+100008,Braga,Postpaid Basic,9,16.70,8.4,5,No
+100009,Leiria,Family,3,69.87,129.0,6,Yes
+100010,Lisboa,Postpaid Basic,5,24.98,13.4,1,Yes
+100011,Braga,Postpaid Plus,5,42.32,36.2,4,No
+100012,Lisboa,Postpaid Basic,12,19.31,5.5,5,No
+100013,Porto,Postpaid Basic,7,18.76,15.6,8,No
+100014,Aveiro,Prepaid,59,13.70,2.8,9,No
+100015,Porto,Postpaid Basic,47,21.81,18.5,0,No
+100016,Braga,Postpaid Plus,66,30.48,42.9,11,No
+100017,Porto,Prepaid,3,10.29,3.1,4,No
+100018,Coimbra,Postpaid Basic,17,28.37,7.9,5,No
+100019,Lisboa,Family,33,73.25,116.2,1,No
+100020,Setubal,Postpaid Basic,44,24.42,9.4,2,No
+100021,Aveiro,Family,3,41.69,89.9,0,Yes
+100022,Aveiro,Postpaid Plus,9,36.71,53.9,1,No
+100023,Leiria,Prepaid,11,10.31,3.8,3,No
+100024,Braga,Prepaid,96,13.25,2.6,6,No
+100025,Porto,Postpaid Basic,95,24.74,12.8,1,No
+100026,Porto,Postpaid Plus,31,35.72,41.8,2,No
+100027,Braga,Postpaid Basic,3,21.10,20.4,5,Yes
+100028,Lisboa,Postpaid Basic,52,16.06,11.3,8,No
+100029,Porto,Postpaid Basic,34,15.48,13.7,3,No
+100030,Leiria,Postpaid Basic,29,24.30,10.2,0,No
+100031,Porto,Family,58,37.27,92.4,4,No
+100032,Lisboa,Postpaid Basic,53,20.53,7.7,2,No
+100033,Braga,Postpaid Basic,62,22.71,11.8,3,No
+100034,Braga,Postpaid Plus,22,37.92,31.8,7,Yes
+100035,Braga,Family,6,57.37,63.3,4,No
+100036,Porto,Postpaid Plus,54,36.01,49.9,1,No
+100037,Lisboa,Postpaid Plus,58,31.33,30.1,4,No
+100038,Lisboa,Postpaid Basic,3,22.48,15.2,0,No
+100039,Lisboa,Prepaid,23,10.51,3.4,2,No
+100040,Porto,Family,41,59.50,79.4,1,No
+100041,Porto,Postpaid Plus,7,37.01,46.0,1,Yes
+100042,Setubal,Postpaid Plus,17,32.10,33.4,0,No
+100043,Lisboa,Family,19,64.79,74.5,1,No
+100044,Porto,Postpaid Plus,26,31.34,45.5,0,No
+100045,Braga,Prepaid,6,9.75,4.0,1,No
+100046,Leiria,Postpaid Basic,29,24.00,6.5,2,No
+100047,Porto,Prepaid,7,14.64,3.9,3,No
+100048,Porto,Postpaid Basic,18,23.34,10.7,2,No
+100049,Porto,Prepaid,11,10.79,5.6,0,No
+100050,Lisboa,Postpaid Basic,9,17.94,12.3,0,Yes
+100051,Lisboa,Prepaid,17,12.14,2.4,0,No
+100052,Porto,Postpaid Plus,26,53.29,48.8,6,No
+100053,Lisboa,Postpaid Plus,18,39.54,31.6,0,Yes
+100054,Porto,Family,30,65.38,101.5,5,No
+100055,Setubal,Postpaid Plus,3,43.28,30.4,0,No
+100056,Coimbra,Family,8,72.03,59.1,1,Yes
+100057,Aveiro,Prepaid,7,12.30,2.9,3,No
+100058,Lisboa,Postpaid Plus,10,21.54,58.0,0,No
+100059,Porto,Postpaid Plus,39,39.55,55.2,9,No
+100060,Aveiro,Prepaid,11,10.02,1.4,0,No
+100061,Lisboa,Postpaid Plus,7,34.47,51.6,3,No
+100062,Braga,Family,4,67.96,121.2,3,Yes
+100063,Porto,Postpaid Plus,94,46.96,64.0,7,No
+100064,Lisboa,Postpaid Basic,25,25.94,14.6,5,No
+100065,Aveiro,Postpaid Basic,6,22.08,11.1,0,Yes
+100066,Setubal,Postpaid Basic,26,18.83,9.1,0,No
+100067,Braga,Postpaid Basic,77,28.87,14.8,5,Yes
+100068,Porto,Prepaid,2,11.22,3.8,0,No
+100069,Aveiro,Family,68,66.13,56.0,2,No
+100070,Porto,Prepaid,10,12.41,7.3,4,Yes
+100071,Lisboa,Postpaid Plus,78,33.68,48.3,0,Yes
+100072,Setubal,Postpaid Plus,47,24.17,29.8,2,No
+100073,Braga,Postpaid Basic,6,20.64,15.8,8,Yes
+100074,Setubal,Postpaid Basic,3,19.66,18.6,4,No
+100075,Lisboa,Postpaid Basic,7,17.14,6.7,1,No
+100076,Porto,Postpaid Plus,4,62.74,49.8,4,No
+100077,Porto,Postpaid Basic,86,21.21,6.4,3,No
+100078,Braga,Family,23,87.24,122.5,2,No
+100079,Aveiro,Family,32,68.01,91.3,0,No
+100080,Coimbra,Postpaid Basic,35,23.02,7.8,7,No
+100081,Porto,Postpaid Plus,58,34.54,40.2,0,No
+100082,Setubal,Family,1,55.11,117.0,3,Yes
+100083,Leiria,Family,13,70.96,140.5,5,No
+100084,Leiria,Postpaid Plus,52,50.43,46.7,3,No
+100085,Lisboa,Prepaid,40,15.13,4.9,2,No
+100086,Aveiro,Family,11,52.36,77.9,2,No
+100087,Aveiro,Postpaid Basic,28,28.90,13.2,7,No
+100088,Aveiro,Postpaid Plus,4,33.97,46.3,0,No
+100089,Lisboa,Postpaid Basic,67,20.44,8.3,7,No
+100090,Setubal,Postpaid Basic,27,26.60,14.1,0,No
+100091,Lisboa,Postpaid Basic,12,19.86,13.3,2,No
+100092,Porto,Family,32,70.55,103.1,0,No
+100093,Aveiro,Prepaid,59,10.52,1.7,8,No
+100094,Porto,Prepaid,27,12.08,3.4,0,No
+100095,Porto,Postpaid Basic,7,19.96,1.8,4,No
+100096,Lisboa,Postpaid Plus,75,34.84,46.6,1,No
+100097,Porto,Family,85,58.04,131.3,2,Yes
+100098,Coimbra,Postpaid Basic,27,24.60,5.5,0,No
+100099,Leiria,Family,5,52.53,115.4,5,Yes
+100100,Lisboa,Postpaid Basic,3,27.45,5.6,3,Yes
+100101,Lisboa,Prepaid,27,12.69,4.1,1,Yes
+100102,Lisboa,Postpaid Basic,84,21.11,6.9,0,No
+100103,Setubal,Postpaid Plus,8,31.56,45.0,3,No
+100104,Coimbra,Postpaid Basic,35,22.78,1.8,7,No
+100105,Faro,Prepaid,59,14.84,5.1,9,No
+100106,Faro,Prepaid,52,9.74,6.4,10,No
+100107,Coimbra,Postpaid Basic,69,23.93,9.6,0,No
+100108,Faro,Prepaid,76,11.74,2.0,1,No
+100109,Braga,Postpaid Plus,39,32.95,57.2,13,No
+100110,Lisboa,Prepaid,10,12.14,3.4,0,No
+100111,Porto,Postpaid Basic,35,21.21,11.4,4,No
+100112,Aveiro,Postpaid Basic,6,13.83,21.0,1,No
+100113,Lisboa,Postpaid Basic,9,10.97,17.3,3,Yes
+100114,Aveiro,Postpaid Plus,31,33.22,29.9,1,No
+100115,Faro,Family,3,73.40,96.5,4,No
+100116,Braga,Prepaid,68,8.51,2.8,3,No
+100117,Braga,Family,2,74.38,149.7,4,Yes
+100118,Faro,Family,45,63.70,106.5,7,No
+100119,Lisboa,Prepaid,61,11.94,3.7,3,No
+100120,Porto,Prepaid,10,15.49,5.4,3,No
+100121,Braga,Family,19,70.85,91.6,7,No
+100122,Porto,Postpaid Basic,36,29.60,5.2,6,No
+100123,Faro,Postpaid Plus,2,32.15,42.7,7,Yes
+100124,Lisboa,Postpaid Plus,34,45.32,49.4,6,No
+100125,Setubal,Postpaid Plus,10,29.58,66.5,3,No
+100126,Lisboa,Prepaid,4,13.54,3.2,0,Yes
+100127,Lisboa,Prepaid,96,6.88,3.5,1,No
+100128,Setubal,Postpaid Basic,75,18.97,12.4,1,No
+100129,Lisboa,Postpaid Plus,75,36.02,9.0,1,No
+100130,Lisboa,Family,93,53.66,77.8,1,No
+100131,Setubal,Prepaid,14,10.06,5.2,4,No
+100132,Setubal,Postpaid Basic,31,21.79,7.7,0,No
+100133,Porto,Prepaid,2,9.87,2.7,0,Yes
+100134,Lisboa,Prepaid,1,11.33,1.6,3,No
+100135,Lisboa,Family,1,52.32,161.6,2,No
+100136,Porto,Postpaid Plus,67,27.45,46.9,2,No
+100137,Porto,Family,20,67.07,92.8,3,No
+100138,Porto,Prepaid,82,11.01,2.0,3,No
+100139,Coimbra,Family,16,55.67,87.1,3,No
+100140,Faro,Family,39,64.90,111.3,7,No
+100141,Lisboa,Postpaid Plus,83,26.79,50.3,1,No
+100142,Porto,Postpaid Basic,27,24.95,10.9,8,No
+100143,Porto,Prepaid,51,17.55,1.5,0,Yes
+100144,Setubal,Prepaid,65,10.29,6.3,5,No
+100145,Faro,Postpaid Plus,89,43.14,51.9,3,No
+100146,Lisboa,Prepaid,10,14.79,2.2,6,No
+100147,Setubal,Postpaid Plus,57,42.95,36.0,6,No
+100148,Setubal,Postpaid Plus,11,32.94,22.2,2,No
+100149,Porto,Postpaid Basic,22,27.41,22.7,0,No
+100150,Aveiro,Postpaid Basic,13,22.12,15.9,0,No
+100151,Faro,Prepaid,86,9.70,2.9,2,No
+100152,Lisboa,Prepaid,16,11.17,3.8,0,No
+100153,Coimbra,Postpaid Basic,56,28.92,9.8,7,No
+100154,Lisboa,Family,20,67.66,62.6,0,No
+100155,Braga,Prepaid,69,13.16,3.1,5,No
+100156,Porto,Postpaid Basic,3,13.71,3.0,3,No
+100157,Leiria,Postpaid Basic,45,16.03,12.0,2,No
+100158,Porto,Family,53,72.00,143.8,1,No
+100159,Lisboa,Prepaid,3,10.00,3.7,3,Yes
+100160,Braga,Postpaid Basic,67,21.45,11.6,9,No
+100161,Setubal,Prepaid,83,12.77,3.8,7,No
+100162,Lisboa,Family,5,52.97,118.6,3,Yes
+100163,Lisboa,Prepaid,37,13.90,3.3,3,Yes
+100164,Lisboa,Postpaid Plus,31,45.68,23.8,0,No
+100165,Lisboa,Postpaid Plus,13,44.10,55.3,2,No
+100166,Braga,Family,11,45.40,108.7,3,No
+100167,Porto,Family,94,74.56,122.7,2,No
+100168,Setubal,Postpaid Basic,44,21.11,13.8,0,No
+100169,Leiria,Postpaid Plus,16,43.15,32.2,4,No
+100170,Lisboa,Postpaid Plus,7,38.07,38.1,3,No
+100171,Setubal,Postpaid Plus,82,42.74,22.9,8,No
+100172,Braga,Family,11,63.98,101.7,10,No
+100173,Faro,Prepaid,54,13.06,3.8,2,No
+100174,Porto,Prepaid,24,11.15,7.4,4,No
+100175,Aveiro,Postpaid Plus,7,27.82,55.0,1,No
+100176,Porto,Postpaid Basic,35,25.28,21.5,0,No
+100177,Setubal,Postpaid Basic,55,16.63,11.2,6,No
+100178,Lisboa,Family,42,81.24,115.4,0,No
+100179,Lisboa,Postpaid Basic,83,24.44,8.3,7,No
+100180,Porto,Postpaid Plus,4,36.77,38.8,0,No
+100181,Leiria,Prepaid,24,12.89,4.8,5,No
+100182,Lisboa,Postpaid Basic,9,22.24,13.4,1,No
+100183,Lisboa,Postpaid Basic,77,25.20,14.0,0,No
+100184,Setubal,Postpaid Plus,73,23.93,50.7,2,No
+100185,Lisboa,Postpaid Basic,25,24.51,9.3,1,No
+100186,Braga,Postpaid Basic,91,21.91,12.8,7,No
+100187,Faro,Postpaid Basic,1,20.29,17.8,4,Yes
+100188,Porto,Postpaid Basic,25,21.07,8.1,3,No
+100189,Faro,Postpaid Basic,26,26.09,20.3,5,No
+100190,Setubal,Postpaid Plus,14,42.83,72.6,0,No
+100191,Lisboa,Postpaid Basic,35,24.47,13.1,5,No
+100192,Braga,Postpaid Basic,22,23.81,5.6,6,No
+100193,Lisboa,Prepaid,33,8.05,2.3,2,Yes
+100194,Braga,Prepaid,62,10.31,2.4,5,No
+100195,Lisboa,Prepaid,34,12.25,5.0,8,No
+100196,Aveiro,Family,28,55.82,118.2,2,No
+100197,Setubal,Postpaid Plus,66,39.86,30.0,0,No
+100198,Lisboa,Postpaid Plus,26,40.35,35.9,1,No
+100199,Lisboa,Postpaid Basic,30,20.23,13.6,2,No
+100200,Braga,Postpaid Plus,2,42.12,17.3,3,No

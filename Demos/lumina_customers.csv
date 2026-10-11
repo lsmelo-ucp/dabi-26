@@ -1,6 +1,6 @@
 customer_id,region,plan,contract_months,monthly_bill,data_gb_month,acquisition_cost,dropped_calls_month,support_tickets_6m,late_payments_12m,contract_end_date,churned
 100001,Lisboa,BASIC,9,21.76,8.0,107.02,1,1,1,15/12/2027,No
-100002,Lisbon,PREPAID,17,13.28,4.2,10.93,1,0,0,,Yes
+100002,Lisbon,PREPAID,17,13.28,4.2,10.93,1,0,0,,yes
 100003,Coimbra,PLUS,40,49.38,21.6,205.88,3,1,,05/05/2027,No
 100004,Leiria,PREPAID,2,13.05,4.1,10.54,7,1,1,,Yes
 100005,Lisboa,PLUS,68,52.09,66.8,178.36,0,1,,2027-01-06,No
@@ -70,7 +70,7 @@ customer_id,region,plan,contract_months,monthly_bill,data_gb_month,acquisition_c
 100069,Leiria,PLUS,59,26.97,50.2,279.92,3,1,,2027-10-21,No
 100070,Braga,PREPAID,21,"11,96 €",0.6,11.58,4,2,0,,Yes
 100071,Lisbon,FAMILY,39,77.92,130.3,543.48,2,3,,2027-06-06,No
-100072,Leiria,BASIC,6,"21,09 €",12.2,78.37,8,1,0,20/03/2028,yes
+100072,Leiria,BASIC,6,"21,09 €",12.2,78.37,8,1,0,20/03/2028,Yes
 100073,Porto,PLUS,43,45.56,34.8,303.10,1,2,,2027-02-17,No
 100074,Leiria,PREPAID,10,13.28,2.5,11.02,0,0,0,,No
 100075,Setubal,FAMILY,16,76.67,79.4,438.74,2,3,0,2027-05-09,No

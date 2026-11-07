@@ -1,0 +1,7 @@
+AirportID,Destination,AirportType,AirportFeePerPassenger,TurnaroundMinutes
+FAO,Faro,Secondary,6.5,25
+FNC,Funchal,Secondary,7.5,35
+LHR,London,Main,31.0,45
+MAD,Madrid,Main,21.0,40
+OPO,Porto,Main,19.0,30
+TFS,Tenerife,Secondary,9.0,35

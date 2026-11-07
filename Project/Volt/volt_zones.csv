@@ -1,0 +1,5 @@
+ZoneID,ZoneName,ParkingSpots,CityFeePerTrip,MaxSpeedKmh
+Z01,Old Town,120,0.85,20
+Z02,Business District,260,0.45,25
+Z03,Residential North,300,0.3,25
+Z04,Riverside,180,0.25,25
